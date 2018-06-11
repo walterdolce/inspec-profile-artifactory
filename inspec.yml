@@ -1,0 +1,8 @@
+name: artifactory
+title: Artifactory InSpec Profile
+maintainer: Walter Dolce
+copyright: Walter Dolce
+copyright_email: walterdolce@gmail.com
+license: Apache-2.0
+summary: Verifies Artifactory is installed and configured correctly
+version: 0.1.0

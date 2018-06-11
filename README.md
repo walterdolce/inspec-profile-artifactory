@@ -1,0 +1,2 @@
+# Artifactory InSpec Profile
+
